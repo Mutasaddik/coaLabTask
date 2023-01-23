@@ -1,6 +1,3 @@
-GitHub234@// Online Java Compiler
-// Use this editor to write, compile and run your Java code online
-
 class Human{
     private String name;
     private String nid;
